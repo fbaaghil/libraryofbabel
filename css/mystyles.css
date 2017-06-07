@@ -1,0 +1,179 @@
+
+
+h1{
+  color:#66FEFF;
+}
+
+
+body{
+background: url(../images/background.gif);
+background-size: cover;
+background-color: black;
+color: white;
+font-size: 20px;
+font-family:  'Oswald', sans-serif, bold;
+letter-spacing: 0.15em;
+text-align: left;
+}
+
+
+h6{
+  text-align: center;
+}
+
+figcaption {
+  text-align: center;
+    color:#66FEFF;
+}
+
+p{
+font-family: 'Open Sans', sans-serif, bold;
+text-align: left;
+margin: 20px auto 20px auto;
+font-weight: normal;
+font-size: 25px;
+}
+
+
+/* Beginning of Hover */
+ul {
+padding: 20px;
+margin: 0px auto 0px auto;
+border-top: 2px solid white;
+border-bottom: 1px solid white;
+
+}
+li{
+display: inline;
+margin: 2px 0px;
+}
+
+.align-center{
+  text-align: center;
+}
+
+
+
+
+a{
+color: #66FEFF;
+text-transform:uppercase;
+text-decoration: none;
+padding: 6px 18px 5px 18px;
+margin-right: 6em;
+margin-left: 13em;
+}
+
+.#align{
+  text-align: left;
+}
+
+
+/* End of hover */
+
+
+#title{
+  text-align: center;
+}
+
+
+
+/* Height of Rows*/
+
+/* nav height*/
+.tall_80{
+  height: 80px;
+  }
+/* end of nav height*/
+
+
+
+.tall_20{
+    height: 20px;
+    }
+
+.tall_300{
+  height: 300px;
+}
+
+.tall_100{
+  height: 100px;
+}
+
+.tall_350{
+  height: 350px;
+}
+
+.tall_400{
+  height: 400px;
+}
+
+.tall_50{
+  height:50px;
+}
+
+.tall_1730{
+  height: 1730px;
+}
+
+
+.tall_175{
+  height: 175px;
+}
+
+.tall_500{
+  height: 500px;
+}
+
+.tall_700{
+  height:700px;
+}
+
+/* End of height for rows */
+
+
+/* sangria css */
+
+
+#sangriaborder{
+  border: solid 3px white;
+  margin: 6px 0px 22px 0px;
+  background-color: black;
+}
+
+#snav{
+  display: block;
+  margin:auto;
+}
+
+#snav:hover {
+    opacity: 0.3;
+    filter: alpha(opacity=30);
+}
+
+#sroom{
+  color: #66FEFF;
+  padding: 6px auto;
+  margin: 1em 2em;;
+
+}
+
+#sroom:hover{
+  color: white;
+}
+
+#fix{
+    margin-left: -6px;
+}
+
+.about{
+    overflow:auto;
+}
+
+iframe{
+  margin-left: -20%;
+}
+
+li: a: #sroom{
+  color: blue;
+}
